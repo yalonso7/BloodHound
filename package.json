@@ -92,7 +92,7 @@
         "react-photo-gallery": "^8.0.0",
         "react-transition-group": "^4.4.1",
         "sanitize-filename": "^1.6.3",
-        "stream-json": "^1.7.0",
+        "stream-json": "^1.7.1",
         "unzipper": "^0.10.11",
         "uuid": "^3.4.0"
     }
